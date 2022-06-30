@@ -1,12 +1,18 @@
-## Hi there 👋
+# RedStudio - Разносторонняя студия в сфере Minecraft.
+> Кто мы такие? -
+RedStudio - это профессиональная студия разработчиков, дизайнеров и билдеров в сфере Minecraft.
 
-<!--
+> Чем вы занимаетесь? -
+Мы занимаемся разработкой студийных плагинов, сборок, скриптов, дизайна и сайтов.
+В нашей студии Вы можете заказать: 
+    - Уникальный плагин по Вашему Т/З.
+    - Оформление Вашего сайта/сервера.
+>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Перечень популярных товаров, которые Вы можете приобрести:
+- ##### RedSkyWars ▸ Пожалуй, лучший в своём роде
+- ##### RedFriends ▸ Не имей 100 друзей, а имей 100 рублей! Ой..
+- ##### RedEconomy ▸ Стать богатым - просто!
+- ##### RedAdmin ▸ Управлять сервером проще, чем ты думал
+- 
+![This is an image](https://github.com/redstd/.github/blob/main/wetwegwee%20%5D.png?raw=true)
